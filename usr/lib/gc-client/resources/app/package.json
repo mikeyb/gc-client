@@ -1,0 +1,9 @@
+{
+  "name": "gc-client",
+  "version": "0.6.2",
+  "description": "Gamecredits Client Application for mining",
+  "author": "Gamecredits",
+  "homepage": "https://wallet.gamecredits.com",
+  "license": "MIT",
+  "main": "main.js"
+}

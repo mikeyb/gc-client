@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=gc-client
+Comment=Gamecredits Client Application for mining
+GenericName=gc-client
+Exec=gc-client %U
+Icon=gc-client
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;
+

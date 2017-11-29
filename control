@@ -1,0 +1,13 @@
+Package: gc-client
+Version: 0.6.2-1
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, libgconf2-4, libgtk2.0-0, libnotify4, libnss3, libxtst6, xdg-utils
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Installed-Size: 171097
+Maintainer: Gamecredits
+Homepage: https://wallet.gamecredits.com
+Description: Gamecredits Client Application for mining
+ Gamecredits Client Application for mining
